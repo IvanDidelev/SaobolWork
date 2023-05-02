@@ -1,0 +1,15 @@
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\SaobolWork.csproj.AssemblyReference.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\SaobolWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\SaobolWork.AssemblyInfoInputs.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\SaobolWork.AssemblyInfo.cs
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\SaobolWork.csproj.CoreCompileInputs.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\bin\Debug\net7.0\SaobolWork.exe
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\bin\Debug\net7.0\SaobolWork.deps.json
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\bin\Debug\net7.0\SaobolWork.runtimeconfig.json
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\bin\Debug\net7.0\SaobolWork.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\bin\Debug\net7.0\SaobolWork.pdb
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\SaobolWork.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\refint\SaobolWork.dll
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\SaobolWork.pdb
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\SaobolWork.genruntimeconfig.cache
+C:\Users\nyxki\OneDrive\Рабочий стол\SimpleCode\SaobolWork\obj\Debug\net7.0\ref\SaobolWork.dll
